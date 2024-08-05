@@ -13,10 +13,6 @@
 - class_name: 网站
   class_desc: 值得推荐的网站
   link_list:
-    - name: ChatGPT
-      link: https://gpt.diamondheart.top/
-      avatar: https://gpt.diamondheart.top/favicon.ico
-      descr: 自建GPT，密码你猜
     - name: 小林Coding
       link: https://xiaolincoding.com/
       avatar: https://xiaolincoding.com/logo.png
