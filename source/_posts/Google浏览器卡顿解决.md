@@ -1,11 +1,11 @@
 ---
-title: Google浏览器卡顿解决
+title: Google Browser GPU渲染配置
 date: 2023-11-16 16:55:38
 tags:
   - Google
 categories:	
   - Google
-description: Google浏览器卡顿解决
+description: 
 ---
 
 ## 症状：

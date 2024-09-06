@@ -5,7 +5,7 @@ tags:
   - GitHub
 categories:	
   - GitHub
-description: GitHub SSH连接错误 kex_exchange_identification,Connection closed by remote host
+description:
 ---
 
 ## GitHub连接错误：kex_exchange_identification:Connection closed by remote host

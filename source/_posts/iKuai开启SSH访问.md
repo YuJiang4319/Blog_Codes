@@ -5,7 +5,7 @@ tags:
   - Re
 categories:	
   - Program
-description: iKuai开启SSH访问
+description: 
 ---
 
 ​	最近在爱快上用docker安装qBittorrent遇到一些问题，想通过SSH连接爱快查看系统日志，结果发现怎么都连接不上。Google查询资料后，才得以连接成功，以下记录解决方式：

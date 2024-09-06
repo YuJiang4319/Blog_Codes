@@ -5,7 +5,7 @@ tags:
   - breed
 categories:	
   - Router
-description: 小米路由器青春版（R1CL）刷breed固件
+description: 
 ---
 
 ### 前言：

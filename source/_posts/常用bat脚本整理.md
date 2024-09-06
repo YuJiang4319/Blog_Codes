@@ -5,7 +5,7 @@ tags:
   - bat
 categories:	
   - Program
-description: 个人常用bat脚本整理
+description: 
 ---
 
 #### GitHub pull：

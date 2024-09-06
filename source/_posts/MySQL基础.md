@@ -5,7 +5,7 @@ tags:
   - MySQL
 categories:	
   - Program
-description: MySQL基础
+description: 
 ---
 
 # 01、什么是数据库，为什么要学习数据库

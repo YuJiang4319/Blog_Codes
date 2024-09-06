@@ -5,22 +5,23 @@ tags:
   - game
 categories:	
   - Game
-description: 各种游戏记录
+description: 
 ---
 
 |             Game              | Spend Time / Hour | Cost / RMB |
 | :---------------------------: | :---------------: | :--------: |
+|          OverWatch 2          |       1300        |    360     |
 |           生死狙击            |       1092        |    800     |
 |         Apex Legends          |        552        |     60     |
-|          OverWatch 2          |        459        |     60     |
 |             CSGO              |        93         |     50     |
+|   The Witcher 3 : Wild Hunt   |        67         |     25     |
+|         黑神话：悟空          |        57         |    328     |
 |        Forza Horizon 4        |        56         |     74     |
 |             DOTA2             |        36         |     30     |
 |           Minecraft           |        20         |     88     |
-|   The Witcher 3 : Wild Hunt   |         9         |     25     |
+|         Battlefield 1         |        20         |     20     |
 |        Death Stranding        |        10         |     0      |
 |      Grand Theft Auto V       |        10         |     65     |
-|         Battlefield 1         |        10         |     20     |
 |       Wallpaper Engine        |         7         |     18     |
 |        Castle Crashers        |         8         |     20     |
 |  Sekiro™: Shadows Die Twice   |         4         |     0      |
